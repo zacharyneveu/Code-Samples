@@ -1,0 +1,10 @@
+Subaru,WRX,2013,Plasma_Blue_Pearl
+Mitsubishi,Lancer_Evolution,2012,Black
+Mini,Countyman_WRC,2014,Blue
+Mini,Countyman_WRC,2014,Blue
+Subaru,WRX,2013,Plasma_Blue_Pearl
+Ferrari,Laferrari,2016,Red?
+Porshe,918 Spyder,2014,white
+Hummer,Humvee,1996,Camo
+Ford,GT,2017,Blue
+Mclaren,P1,2015,Orange
